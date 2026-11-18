@@ -17,8 +17,7 @@ Configured and troubleshot connectivity between Kali Linux and Ubuntu VMs on a V
 
 **Scenarios covered:** subnet misconfiguration, network interface failure, missing IP configuration.
 
-📄 [View full report](./Reports/01-network-troubleshooting-lab.pdf)
-
+📄 [View full report](https://github.com/amara-mushtaq/IT-Networking-Troubleshooting-Labs/blob/main/Reports/Project%201%20Network%20Troubleshooting%20Lab%20Report.pdf)
 ### 2. Windows System Administration Lab
 Performed Windows troubleshooting tasks: user and permission management, software installation and removal, Event Viewer log analysis, and command-line diagnostics.
 
@@ -27,14 +26,14 @@ Performed Windows troubleshooting tasks: user and permission management, softwar
 - Event Viewer log analysis (Event IDs 10005, 7000, 1796)
 - Command-line diagnostics (`ipconfig`, `ping`, `tracert`, `nslookup`, `systeminfo`)
 
-📄 [View full report](./Reports/02-windows-troubleshooting.pdf)
+📄 [View full report](https://github.com/amara-mushtaq/IT-Networking-Troubleshooting-Labs/blob/main/Reports/Project%202%20Windows%20Troubleshooting.pdf)
 
 ### 3. IT Support Ticketing Simulation
 Created and resolved 5 simulated support tickets in osTicket to practise end-to-end triage and documentation.
 
 **Tickets resolved:** password reset, printer offline, software installation request, no internet access (DHCP failure / APIPA 169.254.x.x diagnosis), slow computer performance.
 
-📄 [View full report](./Reports/03-ticketing-system-osticket.pdf)
+📄 [View full report](https://github.com/amara-mushtaq/IT-Networking-Troubleshooting-Labs/blob/main/Reports/Project%20-3%20Ticketing%20System.pdf)
 
 ## Skills
 
